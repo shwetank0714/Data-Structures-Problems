@@ -7,7 +7,7 @@ int main()
 {
 	string x;
 	
-	cin>>x;
+	cin>>x;//Aakif
 	
 	transform(x.begin(),x.end(),x.begin(),::tolower);
 	
